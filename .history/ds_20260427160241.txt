@@ -1,0 +1,27 @@
+Junior Software Developer
+
+Experience: 0-1 year
+
+Required Skills:
+- Programming Languages: Java, Python, or C++
+- Basic understanding of Data Structures and Algorithms
+- Knowledge of HTML, CSS, JavaScript
+- Understanding of Databases (MySQL, PostgreSQL)
+- Problem-solving skills
+- Good communication skills
+
+Education:
+- B.Tech/B.E in Computer Science
+- or BCA/MCA
+- or Any engineering degree with programming knowledge
+
+Good to have:
+- Knowledge of Git/GitHub
+- Basic understanding of React or Angular
+- Internship experience
+
+Responsibilities:
+- Write clean and efficient code
+- Debug and fix issues
+- Participate in code reviews
+- Learn new technologies
